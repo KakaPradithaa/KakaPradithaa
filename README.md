@@ -14,9 +14,14 @@
 
 ## `$ cat ~/about.txt`
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/about?username=kakapradithaa&theme=matrix&style=terminal" width="100%" alt="kakapradithaa about" />
-</p>
+```console
+kakapradithaa@github:~$ whoami
+Kaka Praditha Putra, fullstack web developer, Cimahi
+kakapradithaa@github:~$ cat stack.txt
+Laravel · Next.js · TypeScript · PostgreSQL
+kakapradithaa@github:~$ cat status.txt
+open to work, and to collaboration
+```
 
 I build web applications end to end, from the database schema up to the screen somebody uses at work. Most of my year went into operational software for small businesses: stock in a warehouse, a product catalogue, a sales ledger that has to still add up six months later. Laravel and PHP on one side, Next.js with TypeScript on the other, PostgreSQL underneath.
 
